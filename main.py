@@ -47,7 +47,7 @@ def index():
     conn.close()
 
     balance = total_income - total_expenses  # Subtract expenses from income
-    return render_template('design.html', balance=balance, transactions=transactions)
+    return render_template('index.html', balance=balance, transactions=transactions)
 
 if __name__ == '__main__':
     init_db()
