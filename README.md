@@ -1,6 +1,6 @@
 # Personal Finance Manager
 
-This is a simple Flask web application that helps you manage your finances. You can add income and expenses, view your transaction history, and see your balance. You can also clear your transaction history, which resets the balance to zero.
+This is a simple Flask web application that helps you manage your finances. You can add income and expenses, view your transaction history, and see your balance. You can also clear your transaction history, which also resets the balance to zero.
 
 ## Features
 - Add income and expenses
